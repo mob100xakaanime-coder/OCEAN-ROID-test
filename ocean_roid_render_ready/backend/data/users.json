@@ -1,0 +1,10 @@
+[
+  {
+    "id": "USR-ADMIN",
+    "name": "Ocean Roid Owner",
+    "email": "admin@oceanroid.local",
+    "role": "Admin",
+    "passwordHash": "41e5653fc7aeb894026d6bb7b2db7f65902b454945fa8fd65a6327047b5277fb",
+    "active": true
+  }
+]
